@@ -7,3 +7,4 @@ jachs-605@pruebatecnica-440621.iam.gserviceaccount.com
 3.- activar las apis de sheets y google drive
 4.- crear un service account
 5.- crear las credenciales para esta service acount     (descargar el json y tenerlo en la misma carpeta del proycto)
+compartir el archivo con la service account
